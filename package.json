@@ -1,5 +1,5 @@
 {
-  "name": "@rehamaasar/react-spotlight-card",
+  "name": "react-spotlight-card-reham",
   "version": "1.0.0",
   "description": "A React card component with a mouse-tracking spotlight glow effect",
   "main": "dist/index.js",
