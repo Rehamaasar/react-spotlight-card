@@ -12,7 +12,7 @@
 
 When a user hovers over the card, a soft radial glow follows their cursor in real time — creating a depth and interactivity effect with **zero external dependencies**, built entirely with React hooks and TypeScript.
 
-🧪 **[Live Demo →](https://your-demo-url.vercel.app)**
+🧪 🧪 **[Live Demo →](https://react-spotlight-card-ten.vercel.app)**
 
 ---
 
